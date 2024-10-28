@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Intranet
+
+An intranet is a private computer network within an organization that allows employees to share information, communicate easily, and collaborate using various tools and systems. It is separate from public networks like the Internet but uses similar technology.
+An organization’s intranet serves as a central hub for internal communication and resource access. Many modern intranets feature search engines, user profiles, blogs, mobile apps with notifications, and event planning tools.
